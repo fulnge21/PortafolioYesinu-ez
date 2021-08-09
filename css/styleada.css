@@ -162,7 +162,7 @@ span{
 .titulo_section{
 padding-bottom: 2%;
    text-align: center;
-   color:rgb(116, 5, 172);
+   color:rgb(0, 0, 0);
 }
 
 .subtitulo_section{
@@ -240,7 +240,9 @@ padding-bottom: 2%;
     color: rgb(242, 239, 239);
 }
 
-
+.linkproyecto{
+    text-decoration: none;
+}
 
     
     #caja:hover{
